@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Justin Mathew, a Java Spring Boot Developer with 2+ years of experience.
+- 👋 Hi, I’m Justin P Mathew, Full Stack Java Developer with 2+ years of experience working as a Systems Engineer at a leading Services and Consulting Company.
 - 👀 I’m interested in Data Science, Artificial Intellignece
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
