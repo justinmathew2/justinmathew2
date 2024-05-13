@@ -9,7 +9,7 @@
 - 👋 Hi, I’m Justin P Mathew, Full Stack Java Developer with 3+ years of experience working as a Systems Engineer at a leading Services and Consulting Company.
 - 👀 I’m interested in Data Science and my goal is to become a Full Stack Data Scientist.
 - 🌱 I’m currently learning Data Science, Machine Learning and other related digital technologies.
-- 💞️ I’m looking to collaborate on [Youtube](https://www.youtube.com/@justinmathew5776)
+- 💞️ I’m looking to collaborate on [GitHub](https://github.com/justinmathew2)
 - 📫 How to reach me: Refer Social Links Below
 - ⚡ Fun fact: I like playing intruments and learning new instruments. I also love singing. 
 
